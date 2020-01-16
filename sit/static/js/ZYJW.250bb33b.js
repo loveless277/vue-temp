@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([["ZYJW"],{ZYJW:function(e,n,t){"use strict";t.r(n);var i=function(e,n){var t=n._c;return t("div",{staticStyle:{padding:"30px"}},[t("el-alert",{attrs:{closable:!1,title:"menu 1-2-1",type:"warning"}})],1)};i._withStripped=!0;var l=t("ZrdR"),r=Object(l.a)({},i,[],!0,null,null,null);r.options.__file="src\\views\\nested\\menu1\\menu1-2\\menu1-2-1\\index.vue";n.default=r.exports}}]);
+//# sourceMappingURL=ZYJW.250bb33b.js.map

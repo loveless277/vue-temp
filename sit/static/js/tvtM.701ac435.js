@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([["tvtM"],{tvtM:function(t,e,n){"use strict";n.r(e);var i=function(t,e){var n=e._c;return n("div",{staticStyle:{padding:"30px"}},[n("el-alert",{attrs:{closable:!1,title:"menu 1-2-2",type:"warning"}})],1)};i._withStripped=!0;var l=n("ZrdR"),r=Object(l.a)({},i,[],!0,null,null,null);r.options.__file="src\\views\\nested\\menu1\\menu1-2\\menu1-2-2\\index.vue";e.default=r.exports}}]);
+//# sourceMappingURL=tvtM.701ac435.js.map
