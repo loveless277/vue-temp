@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([["tFgI"],{tFgI:function(t,e,n){"use strict";n.r(e);var l=n("ZrdR"),i=Object(l.a)({},function(){var t=this.$createElement,e=this._self._c||t;return e("div",{staticStyle:{padding:"30px"}},[e("el-alert",{attrs:{closable:!1,title:"menu 2"}})],1)},[],!1,null,null,null);i.options.__file="index.vue";e.default=i.exports}}]);

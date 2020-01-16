@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([["Cjo7"],{Cjo7:function(e,t,n){"use strict";n.r(t);var l=n("ZrdR"),s=Object(l.a)({},function(e,t){var n=t._c;return n("div",{staticStyle:{padding:"30px"}},[n("el-alert",{attrs:{closable:!1,title:"menu 1-3",type:"success"}})],1)},[],!0,null,null,null);s.options.__file="index.vue";t.default=s.exports}}]);
