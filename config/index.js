@@ -58,7 +58,7 @@ module.exports = {
      * then assetsPublicPath should be set to "/bar/".
      * In most cases please use '/' !!!
      */
-    assetsPublicPath: './vue-temp/docs/',
+    assetsPublicPath: './vue-temp/',
 
     /**
      * Source Maps
